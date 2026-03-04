@@ -100,3 +100,4 @@ if st.button('🚀 GENERAR ANÁLISIS MAESTRO'):
 
             except Exception as e:
                 continue
+
